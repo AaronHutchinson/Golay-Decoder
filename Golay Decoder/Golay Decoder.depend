@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1456434857 source:c:\users\kless\dropbox\programming\golay decoder\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<vector>
+
